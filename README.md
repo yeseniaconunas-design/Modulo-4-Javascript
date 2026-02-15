@@ -20,6 +20,7 @@ Esta aplicación permite al usuario interactuar desde la consola del navegador p
 - Creación de un objeto usuario con un método `presentarse` que incluye el correo provisto por el usuario.
 
 El programa organiza el código en funciones claras para facilitar su lectura y comprensión.
+
 ---
 
 ## ⚙️ Funcionalidades
